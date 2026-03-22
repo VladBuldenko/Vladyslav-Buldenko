@@ -9,6 +9,9 @@ My professional experience has enabled me to support both product and technical 
 * 📉 Supporting product teams by translating data into clear, business-oriented recommendations.
 * 🚀 Currently strengthening my analytics expertise through preparation for the Microsoft PL-300 certification.
 
+### 📚 Projects
+Welcome to my portfolio — feel free to explore my [projects](https://github.com/VladBuldenko/Portfolio-Guide).
+
 ### 🛠 Tools
 
 * **Data Analysis & Visualization:** SQL, Python (Pandas), Power BI, Looker, Excel.
